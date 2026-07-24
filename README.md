@@ -1,32 +1,46 @@
-# Task 1 – To-Do List Application
+# CodSoft Python Internship
 
-## Description
+This repository contains the Python projects completed as part of my **CodSoft Python Programming Internship**.
 
-This is a command-line To-Do List application developed using Python. It helps users organize and manage daily tasks efficiently.
+## Projects Included
 
-## Features
+### Task 1 – To-Do List Application
 
-* Add new tasks
-* View all tasks
-* Update existing tasks
+A command-line application that allows users to:
+
+* Add tasks
+* View tasks
+* Update tasks
 * Mark tasks as completed
 * Delete tasks
-* Input validation for better user experience
 
-## Concepts Used
+### Task 2 – Simple Calculator
 
-* Functions
-* Lists
-* Dictionaries
-* Loops
-* Conditional Statements
-* Exception Handling
-* User Input
+A menu-driven calculator that performs:
 
-## Output
+* Addition
+* Subtraction
+* Multiplication
+* Division
+* Input validation and error handling
 
-(check output.png)
+### Task 3 – Password Generator
 
-## Author
-Sri Varsha Valluripalli
-Developed as part of the **CodSoft Python Internship**.
+A random password generator that allows users to:
+
+* Select lowercase letters
+* Select uppercase letters
+* Select numbers
+* Select special characters
+* Choose password length
+
+## Technologies Used
+
+* Python 3
+* Standard Python Libraries (`random`, `string`)
+
+## Internship
+
+Organization: **CodSoft**
+
+Thank you, CodSoft, for providing this opportunity to strengthen my Python programming skills through hands-on projects.
