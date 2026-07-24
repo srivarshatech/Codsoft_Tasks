@@ -1,0 +1,31 @@
+# Task 3 – Password Generator
+
+## Description
+
+A Python-based random password generator that creates secure passwords based on user-selected criteria.
+
+## Features
+
+* Include lowercase letters
+* Include uppercase letters
+* Include numbers
+* Include special characters
+* Custom password length
+* Random password generation
+
+## Concepts Used
+
+* Functions
+* Loops
+* Conditional Statements
+* Exception Handling
+* `random` module
+* `string` module
+
+## Output
+
+check output.png
+
+## Author
+Sri Varsha Valluripalli
+Developed as part of the **CodSoft Python Internship**.
