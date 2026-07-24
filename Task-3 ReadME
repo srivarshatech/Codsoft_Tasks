@@ -1,0 +1,30 @@
+# Task 3 – Simple Calculator
+
+## Description
+
+A menu-driven calculator built in Python that performs basic arithmetic operations while handling invalid inputs gracefully.
+
+## Features
+
+* Addition
+* Subtraction
+* Multiplication
+* Division
+* Invalid input handling
+* Division by zero handling
+
+## Concepts Used
+
+* Functions
+* Conditional Statements
+* Loops
+* Exception Handling
+* User Input
+
+## Output
+
+(Add screenshots in the `output` or `screenshots` folder.)
+
+## Author
+Sri Varsha Valluripalli
+Developed as part of the **CodSoft Python Internship**.
